@@ -13,7 +13,7 @@ $ git clone https://github.com/eyao06/react-countdown-timer.git
 $ cd react-countdown-timer
 ```
 
-**Important**: You must install the latest version of [Node](https://nodejs.org/en/), [git](https://git-scm.com/downloads), and [npm] first
+**Important**: You must install the latest version of [Node](https://nodejs.org/en/), [git](https://git-scm.com/downloads), and npm first
 
 2) Open a terminal and `cd` into project folder `react-countdown-timer`
 
