@@ -21,7 +21,7 @@ $ cd react-countdown-timer
 $ cd react-countdown-timer
 ```
 
-3) Install the dependencies in each folder
+3) Install the dependencies
 
 ```bash
 $ npm install
